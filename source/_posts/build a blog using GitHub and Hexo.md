@@ -1,3 +1,9 @@
+---
+title: build a blog using GitHub and Hexo
+---
+
+To build a blog using GitHub and Hexo
+
 -  what is node.js
 -  what is hexo
 -  in the blog, what roles do different tools play?
