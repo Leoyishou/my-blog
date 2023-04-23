@@ -104,5 +104,5 @@ theme: landscape
 
 deploy:
   type: git
-  repo: https://github.com/Leo/Leo.github.io
+  repo: https://github.com/Leoyishou/Leoyishou.github.io
   branch: main
