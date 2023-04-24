@@ -1,0 +1,101 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "^(.+)\\n\\n(.+)",
+      "ChatGPT": "",
+      "Cloze": "",
+      "Friends": "",
+      "MJ05-美剧模板": "",
+      "VocabularySpelling": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "ChatGPT": "正面",
+      "Cloze": "Text",
+      "Friends": "Timeline",
+      "MJ05-美剧模板": "Timeline",
+      "VocabularySpelling": "Word"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "The Road to English Expression": "",
+      "Learn from ChatGPT": ""
+    },
+    "FOLDER_TAGS": {
+      "The Road to English Expression": "",
+      "Learn from ChatGPT": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Obsidian",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "Learn from ChatGPT/Markdown Syntax.md": "099d836cea27f41efc6aaeab2d1ea5a5",
+    "Learn from ChatGPT/regex.md": "d30016b37d4764661dd3d9a2e9f6321e",
+    "x title  Connect to the Docker container using SSH from the host machine.md": "24ed18638f2b9bedf5a0a127df054fe2",
+    "The Road to English Expression/April 20, 2023.md": "69bde689dd674be398efa6777091291b",
+    "ifconfig.md": "8f74382c0273ba7fd4d5ef4dc123916c",
+    "hello-world.md": "9bbabaada932d22e2b09a0c548b8969f",
+    "build a blog using GitHub and Hexo.md": "8bfe0e3e128ee6755ed8cfc07a2977f7"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "ChatGPT": [
+      "正面",
+      "背面",
+      "Reasons"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Friends": [
+      "Timeline",
+      "Audio",
+      "Video",
+      "Subtitle-EN",
+      "Subtitle-CN",
+      "Notes"
+    ],
+    "MJ05-美剧模板": [
+      "Timeline",
+      "Audio",
+      "Video",
+      "Subtitle-EN",
+      "Subtitle-CN",
+      "Notes"
+    ],
+    "VocabularySpelling": [
+      "Word",
+      "WordType",
+      "Phonetic",
+      "Example",
+      "Sound",
+      "Image",
+      "Content",
+      "Copyright"
+    ]
+  }
+}
