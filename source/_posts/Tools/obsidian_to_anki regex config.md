@@ -1,3 +1,11 @@
+---
+title: "obsidian_to_anki regex config"
+date: 2023-04-28
+categories: [tools, anki, obsidian_to_anki]
+---
+
+
+
 ![[Pasted image 20230425002429.png]]
 
 To create a regex pattern that matches the text structure you provided, where the front of the flashcard is on one line and the back of the flashcard is on the next line, you can use the following regex pattern:

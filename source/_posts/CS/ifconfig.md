@@ -1,6 +1,7 @@
 ---
 title: "knowledge of ifconfig"
 date: 2023-04-22
+categories: [CS,network]
 tags: [tag1,tag2]
 ---
 

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn from ChatGPT/Markdown Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddb220ddedc7351f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn from ChatGPT/ifconfig.md",
+                "file": "CS/ifconfig.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn from ChatGPT/ifconfig.md",
+                "file": "CS/ifconfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn from ChatGPT/ifconfig.md",
+                "file": "CS/ifconfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn from ChatGPT/ifconfig.md"
+                "file": "CS/ifconfig.md"
               }
             }
           }
@@ -160,35 +147,36 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ddb220ddedc7351f",
+  "active": "65d4f791e5a4824c",
   "lastOpenFiles": [
-    "Learn from ChatGPT/Markdown Syntax.md",
-    "Learn from ChatGPT/ifconfig.md",
-    "Learn from ChatGPT/obsidian_to_anki regex config.md",
-    "Learn from ChatGPT/build a blog using GitHub and Hexo.md",
-    "Learn from ChatGPT/Senario to use ChatGpt.md",
-    "hello-world.md",
-    "The Road to English Expression/April 20, 2023.md",
+    "English/April 20, 2023.md",
+    "Tools/Markdown Syntax.md",
+    "Tools/obsidian_to_anki regex config.md",
+    "CS/ifconfig.md",
+    "CS/build a blog using GitHub and Hexo.md",
+    "ChatGPT/Senario to use ChatGpt.md",
     "Tools/Untitled.md",
+    "ChatGPT",
+    "Connect to the Docker container using SSH from the host machine.md",
+    "hello-world.md",
     "Untitled.canvas",
-    "Learn from ChatGPT/attachments/Pasted image 20230425002206.png",
-    "Learn from ChatGPT/attachments/Pasted image 20230425001336.png",
+    "CS/attachments/Pasted image 20230425002206.png",
+    "CS/attachments/Pasted image 20230425001336.png",
     "Tools",
-    "Learn from ChatGPT/attachments/Pasted image 20230425011549.png",
-    "Learn from ChatGPT/attachments/Pasted image 20230425014039.png",
-    "Learn from ChatGPT/attachments/Pasted image 20230425002640.png",
-    "Learn from ChatGPT/attachments/Pasted image 20230425002429.png",
-    "Learn from ChatGPT/attachments/Pasted image 20230425002358.png",
-    "Learn from ChatGPT/attachments/Pasted image 20230425001354.png",
-    "Learn from ChatGPT/attachments/Pasted image 20230425000744.png",
-    "Learn from ChatGPT/attachments",
-    "Learn from ChatGPT",
+    "CS/attachments/Pasted image 20230425011549.png",
+    "CS/attachments/Pasted image 20230425014039.png",
+    "CS/attachments/Pasted image 20230425002640.png",
+    "CS/attachments/Pasted image 20230425002429.png",
+    "CS/attachments/Pasted image 20230425002358.png",
+    "CS/attachments/Pasted image 20230425001354.png",
+    "CS/attachments/Pasted image 20230425000744.png",
+    "CS/attachments",
+    "CS",
     "2023-04-25.md",
     "The Road to English Expression/attachments/Pasted image 20230425014031.png",
     "attachments",
-    "The Road to English Expression/attachments",
+    "English/attachments",
     "Untitled Diagram.png.crdownload",
-    "x title  Connect to the Docker container using SSH from the host machine.md",
-    "The Road to English Expression"
+    "English"
   ]
 }

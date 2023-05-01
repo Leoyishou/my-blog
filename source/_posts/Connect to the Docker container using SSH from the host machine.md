@@ -1,6 +1,8 @@
-```
-title:  Connect to the Docker container using SSH from the host machine
-```
+---
+title: "Connect to the Docker container using SSH from the host machine"
+date: 2023-04-26
+categories: [CS, network]
+---
 
 在容器中下载好ssh
 

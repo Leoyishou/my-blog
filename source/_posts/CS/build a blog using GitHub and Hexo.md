@@ -1,6 +1,7 @@
 ---
 title: build a blog using GitHub and Hexo
 date: 2023-04-21
+categories: [CS,build]
 tags: [tag1,tag2]
 ---
 
