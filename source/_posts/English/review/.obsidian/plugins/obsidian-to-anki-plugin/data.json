@@ -1,0 +1,87 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "/(?m)^(.*)\\n(.*)/gm",
+      "ChatGPT": "",
+      "Cloze": "",
+      "Friends": "",
+      "MJ05-美剧模板": "",
+      "VocabularySpelling": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "ChatGPT": "正面",
+      "Cloze": "Text",
+      "Friends": "Timeline",
+      "MJ05-美剧模板": "Timeline",
+      "VocabularySpelling": "Word"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Obsidian",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "ChatGPT": [
+      "正面",
+      "背面",
+      "Reasons"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Friends": [
+      "Timeline",
+      "Audio",
+      "Video",
+      "Subtitle-EN",
+      "Subtitle-CN",
+      "Notes"
+    ],
+    "MJ05-美剧模板": [
+      "Timeline",
+      "Audio",
+      "Video",
+      "Subtitle-EN",
+      "Subtitle-CN",
+      "Notes"
+    ],
+    "VocabularySpelling": [
+      "Word",
+      "WordType",
+      "Phonetic",
+      "Example",
+      "Sound",
+      "Image",
+      "Content",
+      "Copyright"
+    ]
+  }
+}

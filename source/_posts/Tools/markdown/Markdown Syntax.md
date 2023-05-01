@@ -3,7 +3,6 @@
 title: "Markdown Syntax"
 date: 2023-04-23
 categories: [tools, markdown]
-tags: [tag1, tag2]
 ---
 
 Here's a list of common Markdown syntax elements:

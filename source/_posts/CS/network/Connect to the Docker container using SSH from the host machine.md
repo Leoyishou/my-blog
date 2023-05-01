@@ -3,9 +3,9 @@ title: "Connect to the Docker container using SSH from the host machine"
 date: 2023-04-26
 categories: [CS, network]
 ---
+## Key points
 
 在容器中下载好ssh
-
 - I dont't used to write locally  我过去并不是本地写，用虚拟机的sdk跑，
 
   而是本地写，本地sdk检查，然后把检查后的代码传到虚拟机文件夹里，用虚拟机的sdk跑
@@ -16,7 +16,7 @@ categories: [CS, network]
 
 -   docker build？
 
-
+## From ChatGPT
 
 1. Create a Dockerfile:
 
@@ -44,7 +44,7 @@ CMD ["/usr/sbin/sshd", "-D"]
 
 Replace `YOUR_PASSWORD` with a secure password of your choice.
 
-1. Build the Docker image:
+2. Build the Docker image:
 
 Navigate to the directory containing the `Dockerfile` and run the following command:
 
@@ -54,7 +54,7 @@ docker build -t my_ssh_container .
 
 This will create a new Docker image named `my_ssh_container` with SSH enabled.
 
-1. Run the Docker container:
+3. Run the Docker container:
 
 ```sh
 docker run -d -p 2222:22 --name my_ssh_container_instance my_ssh_container
@@ -62,7 +62,7 @@ docker run -d -p 2222:22 --name my_ssh_container_instance my_ssh_container
 
 This command will start a new container named `my_ssh_container_instance` based on the `my_ssh_container` image. It maps the container's port 22 (SSH) to the host's port 2222.
 
-1. Connect to the Docker container via SSH:
+4. Connect to the Docker container via SSH:
 
 From the host machine or another computer, you can now connect to the Docker container using SSH:
 

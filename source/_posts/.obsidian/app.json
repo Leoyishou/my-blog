@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "images",
+  "newLinkFormat": "relative",
+  "promptDelete": false
 }

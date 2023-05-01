@@ -5,8 +5,8 @@ categories: [ChatGPT]
 ---
 
 1. Write regex
-2. English revision 
-3. Usage of software 
+3. English revision 
+4. Usage of software 
 
 
 

@@ -2,13 +2,11 @@
 title: "knowledge of ifconfig"
 date: 2023-04-22
 categories: [CS,network]
-tags: [tag1,tag2]
 ---
 
-```markdown
-i'm a linux learner, i want you teach me something about internet . could you explain me the following content in easy to understand way?    
-```
-
+***
+**i'm a linux learner, i want you teach me something about internet . could you explain me the following content in easy to understand way?**    
+***
 Sure! What you're looking at is the output of a command that displays information about the network interfaces on a Linux system. This output shows details for four network interfaces: `docker0`, `ens33`, `lo`, and `veth557dd78`.
 
 Let's break down each section in simpler terms:
@@ -34,14 +32,9 @@ Let's break down each section in simpler terms:
 
 In summary, this output provides information about the network interfaces on your system, including IP addresses, subnet masks, broadcast addresses, and details about received and transmitted packets.
 
-------
-
-
-
-```
-physical Ethernet interface    loopback interface,  virtual Ethernet interface, MAC address  i don't know these terms
-```
-
+***
+**physical Ethernet interface    loopback interface,  virtual Ethernet interface, MAC address  i don't know these terms**
+***
 I understand. Let me explain these terms in a simpler way:
 
 1. **Physical Ethernet interface**: This is a hardware component that connects your computer to a wired network, usually using an Ethernet cable. The Ethernet interface handles sending and receiving data between your computer and the network. An example of a physical Ethernet interface is the `ens33` interface from the output you provided.
@@ -52,17 +45,12 @@ I understand. Let me explain these terms in a simpler way:
 
 4. **MAC address**: A Media Access Control (MAC) address is a unique identifier assigned to a network interface. It is used to identify devices on a network at the data link layer (Layer 2) of the OSI model. MAC addresses are 48 bits in length and are usually represented as six groups of two hexadecimal digits, separated by colons or hyphens (e.g., `02:42:46:73:fc:6c`). Every network interface, whether physical or virtual, has a MAC address.
 
-------
-
-
-
-```
-above is my virtual machine's information, following is my real pc's information, tell me their relationship and other details what are helpful to my learning :Windows IP Configuration
-```
+***
+**above is my virtual machine's information, following is my real pc's information, tell me their relationship and other details what are helpful to my learning :Windows IP Configuration**
+***
 
 ```markdown
 Windows IP Configuration
-
 
 Ethernet adapter Ethernet:
 
@@ -108,7 +96,7 @@ Ethernet adapter Bluetooth Network Connection:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . :
 ```
-
+***
 The information you provided shows the network interfaces on your real PC, which is running Windows. There are several network interfaces listed, including Ethernet, Wireless LAN (Wi-Fi), and virtual network interfaces created by VMware. Let's look at the relationship between your real PC and the virtual machine (VM) you mentioned earlier, as well as other useful details for your learning.
 
 1. **Ethernet adapter Ethernet**: This is the physical Ethernet interface on your real PC. It is currently disconnected (Media State: Media disconnected).

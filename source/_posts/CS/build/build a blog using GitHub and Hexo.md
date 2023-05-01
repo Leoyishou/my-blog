@@ -2,10 +2,9 @@
 title: build a blog using GitHub and Hexo
 date: 2023-04-21
 categories: [CS,build]
-tags: [tag1,tag2]
 ---
 
-# Key Points
+## Key Points
 
 -  what is node.js
 -  what is hexo
@@ -15,8 +14,9 @@ tags: [tag1,tag2]
 
 note: there are two repos in the building of project. one(name.github.io) is for the deployment, the other is for the storeration of code.
 
+## From ChatGPT
 
-# To build a blog using GitHub and Hexo, follow these steps:
+To build a blog using GitHub and Hexo, follow these steps:
 
 1. **Install Node.js and Git:**
 
@@ -110,3 +110,40 @@ hexo deploy
 Your blog should now be available at `https://yourusername.github.io`.
 
 For more information on Hexo and its features, visit the official Hexo documentation: https://hexo.io/docs/
+
+
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
+## Quick Start
+
+### Create a new post
+
+``` bash
+$ hexo new "My New Post"
+```
+
+More info: [Writing](https://hexo.io/docs/writing.html)
+
+### Run server
+
+``` bash
+$ hexo server
+```
+
+More info: [Server](https://hexo.io/docs/server.html)
+
+### Generate static files
+
+``` bash
+$ hexo generate
+```
+
+More info: [Generating](https://hexo.io/docs/generating.html)
+
+### Deploy to remote sites
+
+``` bash
+$ hexo deploy
+```
+
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)

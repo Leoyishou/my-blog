@@ -1,0 +1,121 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "/(?m)^(.*)\\n(.*)/gm",
+      "ChatGPT": "",
+      "Cloze": "",
+      "Friends": "",
+      "MJ05-美剧模板": "",
+      "VocabularySpelling": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "ChatGPT": "正面",
+      "Cloze": "Text",
+      "Friends": "Timeline",
+      "MJ05-美剧模板": "Timeline",
+      "VocabularySpelling": "Word"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "images": "",
+      "_posts": "",
+      "_posts/ChatGPT": "",
+      "_posts/CS": "",
+      "_posts/English": "",
+      "_posts/Tools": "",
+      "_posts/CS/build": "",
+      "_posts/CS/network": "",
+      "_posts/English/review": "",
+      "_posts/Tools/markdown": "",
+      "_posts/Tools/obsidian_to_anki": ""
+    },
+    "FOLDER_TAGS": {
+      "images": "",
+      "_posts": "",
+      "_posts/ChatGPT": "",
+      "_posts/CS": "",
+      "_posts/English": "",
+      "_posts/Tools": "",
+      "_posts/CS/build": "",
+      "_posts/CS/network": "",
+      "_posts/English/review": "",
+      "_posts/Tools/markdown": "",
+      "_posts/Tools/obsidian_to_anki": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Obsidian",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "_posts/Tools/obsidian_to_anki/obsidian_to_anki regex config.md": "2701c5119a7449f3a375c8f905b3fe3e",
+    "_posts/Tools/markdown/Markdown Syntax.md": "ce0df26b5bab51b3a12abc3592d1129e",
+    "_posts/hello-world.md": "9bbabaada932d22e2b09a0c548b8969f",
+    "_posts/English/review/May 1, 2023.md": "f73993b2d158aed7053370093367fc77",
+    "_posts/English/review/April 20, 2023.md": "7f01f299c0dbef86faa5f20c134b8ead",
+    "_posts/CS/network/knowledge of ifconfig.md": "fa8b425860d5b8d8392c620e9245b1d7",
+    "_posts/CS/network/Connect to the Docker container using SSH from the host machine.md": "f5aacd0086eef0e607d8f778a271628e",
+    "_posts/CS/build/build a blog using GitHub and Hexo.md": "39cae425b62a3112ea24502b9d628424",
+    "_posts/ChatGPT/Senario to use ChatGpt.md": "5ae2cd5f5b12a3225c7aa961f578418c"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "ChatGPT": [
+      "正面",
+      "背面",
+      "Reasons"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Friends": [
+      "Timeline",
+      "Audio",
+      "Video",
+      "Subtitle-EN",
+      "Subtitle-CN",
+      "Notes"
+    ],
+    "MJ05-美剧模板": [
+      "Timeline",
+      "Audio",
+      "Video",
+      "Subtitle-EN",
+      "Subtitle-CN",
+      "Notes"
+    ],
+    "VocabularySpelling": [
+      "Word",
+      "WordType",
+      "Phonetic",
+      "Example",
+      "Sound",
+      "Image",
+      "Content",
+      "Copyright"
+    ]
+  }
+}
