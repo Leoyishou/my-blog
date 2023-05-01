@@ -1,6 +1,14 @@
+
+---
+title: "Markdown Syntax"
+date: 2023-04-23
+tags: [tag1, tag2]
+---
+
 Here's a list of common Markdown syntax elements:
 
 1. Headers:
+
 ```
 # Heading level 1
 ## Heading level 2
@@ -70,6 +78,8 @@ This is a code block.
 </pre>
 
 or
+<!--ID: 1682402866497-->
+
 
 <pre>
 ```python

@@ -105,4 +105,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Leoyishou/Leoyishou.github.io
-  branch: main
+  branch: obsidian

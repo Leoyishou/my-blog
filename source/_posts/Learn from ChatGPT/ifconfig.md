@@ -1,3 +1,9 @@
+---
+title: "knowledge of ifconfig"
+date: 2023-04-22
+tags: [tag1,tag2]
+---
+
 ```markdown
 i'm a linux learner, i want you teach me something about internet . could you explain me the following content in easy to understand way?    
 ```

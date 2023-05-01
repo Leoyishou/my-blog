@@ -47,15 +47,21 @@
       "Add Obsidian Tags": false
     }
   },
-  "Added Media": [],
+  "Added Media": [
+    "Pasted image 20230425002429.png",
+    "Pasted image 20230425002358.png"
+  ],
   "File Hashes": {
-    "Learn from ChatGPT/Markdown Syntax.md": "099d836cea27f41efc6aaeab2d1ea5a5",
+    "Learn from ChatGPT/Markdown Syntax.md": "85c9ef2fd889dd56dd5f0e6ccfac98b8",
     "Learn from ChatGPT/regex.md": "d30016b37d4764661dd3d9a2e9f6321e",
     "x title  Connect to the Docker container using SSH from the host machine.md": "24ed18638f2b9bedf5a0a127df054fe2",
     "The Road to English Expression/April 20, 2023.md": "69bde689dd674be398efa6777091291b",
-    "ifconfig.md": "8f74382c0273ba7fd4d5ef4dc123916c",
+    "ifconfig.md": "a17b823ee6e1bacbe24dcdb8718aaaac",
     "hello-world.md": "9bbabaada932d22e2b09a0c548b8969f",
-    "build a blog using GitHub and Hexo.md": "8bfe0e3e128ee6755ed8cfc07a2977f7"
+    "build a blog using GitHub and Hexo.md": "8bfe0e3e128ee6755ed8cfc07a2977f7",
+    "Learn from ChatGPT/Senario to use ChatGpt.md": "a4280e8c383d4f9cbf7fa20273becbe1",
+    "Learn from ChatGPT/obsidian_to_anki regex config.md": "9a4cd38b3b5b8701710f6cea7dac7aed",
+    "2023-04-25.md": "d41d8cd98f00b204e9800998ecf8427e"
   },
   "fields_dict": {
     "Basic": [

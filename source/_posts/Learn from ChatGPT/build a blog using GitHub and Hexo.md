@@ -1,8 +1,10 @@
 ---
 title: build a blog using GitHub and Hexo
+date: 2023-04-21
+tags: [tag1,tag2]
 ---
 
-To build a blog using GitHub and Hexo
+# Key Points
 
 -  what is node.js
 -  what is hexo
@@ -13,14 +15,13 @@ To build a blog using GitHub and Hexo
 note: there are two repos in the building of project. one(name.github.io) is for the deployment, the other is for the storeration of code.
 
 
-
-To build a blog using GitHub and Hexo, follow these steps:
+# To build a blog using GitHub and Hexo, follow these steps:
 
 1. **Install Node.js and Git:**
 
 Hexo is built on Node.js, so you will need to install it on your local machine. Visit the Node.js website (https://nodejs.org/) to download and install the latest version of Node.js. Also, ensure you have Git installed on your machine (https://git-scm.com/downloads).
 
-1. **Install Hexo:**
+2. **Install Hexo:**
 
 Open a terminal (or command prompt) and install Hexo using the following command:
 
@@ -28,7 +29,7 @@ Open a terminal (or command prompt) and install Hexo using the following command
 npm install -g hexo-cli
 ```
 
-1. **Create a new Hexo project:**
+3. **Create a new Hexo project:**
 
 In the terminal, navigate to the directory where you want to create your blog and run the following command:
 
@@ -38,7 +39,7 @@ hexo init my-blog
 
 Replace `my-blog` with the desired name for your blog directory. This command will create a new Hexo project in the specified directory.
 
-1. **Install dependencies:**
+4. **Install dependencies:**
 
 Navigate to the new project directory and install the necessary dependencies:
 
@@ -47,7 +48,7 @@ cd my-blog
 npm install
 ```
 
-1. **Run the Hexo server:**
+5. **Run the Hexo server:**
 
 Start the Hexo server to preview your blog:
 
@@ -57,7 +58,7 @@ hexo server
 
 By default, your blog will be accessible at `http://localhost:4000`.
 
-1. **Customize your blog:**
+6. **Customize your blog:**
 
 Edit the `_config.yml` file in the project directory to customize your blog's settings, such as title, description, and theme. You can also create new posts and pages using the following commands:
 
@@ -66,7 +67,7 @@ hexo new post "Your Post Title"
 hexo new page "Your Page Title"
 ```
 
-1. **Deploy your blog to GitHub Pages:**
+7. **Deploy your blog to GitHub Pages:**
 
 First, install the Hexo GitHub Pages deployment plugin:
 
